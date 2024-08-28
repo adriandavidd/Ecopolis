@@ -37,7 +37,7 @@ export const Nav = () => {
                   : "text-base font-semibold  mx-5 text-black hover:text-green-600"
               }
             >
-              Informacion Del Equipo
+              Información Del Equipo
             </NavLink>
             <NavLink
               to="/quimica"
@@ -47,7 +47,7 @@ export const Nav = () => {
                   : "text-base font-semibold  mx-5 text-black hover:text-green-600"
               }
             >
-              Quimica
+              Química
             </NavLink>
 
             <NavLink
@@ -58,7 +58,7 @@ export const Nav = () => {
                   : "text-base font-semibold  mx-5 text-black hover:text-green-600"
               }
             >
-              Matematicas
+              Matemáticas
             </NavLink>
             <NavLink
               to="/ciencias"
@@ -68,7 +68,7 @@ export const Nav = () => {
                   : "text-base font-semibold  mx-5 text-black hover:text-green-600"
               }
             >
-              Ciencias Politicas
+              Ciencias Políticas
             </NavLink>
             <NavLink
               to="/arte"
