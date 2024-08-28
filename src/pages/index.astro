@@ -1,12 +1,10 @@
 ---
 import Layout from "../layouts/Layout.astro";
-import { Nav } from "../components/nav";
 import { Home } from "../components/home";
 ---
 
 <Layout title="Ecopolis">
   <main>
-    <Nav />
-    <Home />
+    <Home client:only />
   </main>
 </Layout>
