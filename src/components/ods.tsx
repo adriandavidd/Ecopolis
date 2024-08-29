@@ -1,6 +1,6 @@
 export const Ods = () => {
   return (
-    <div className="flex items-center justify-center mx-20 my-10 text-zinc-700 flex-col">
+    <div className="flex items-center justify-center mx-10 text-zinc-700 flex-col">
       <div className="font-bold text-lg my-10">
         Objetivos de Desarrollo Sostenible
       </div>
