@@ -185,7 +185,7 @@ export const Inicio = () => {
           final, considerando la investigación, la aplicación de conocimientos,
           la innovación y la calidad de la presentación.
         </p>
-        <p className="my-4 text-base">
+        <p className="mt-4 text-base">
           Este proyecto no solo desarrollará competencias específicas en cada
           área, sino que también fomentará habilidades de colaboración,
           resolución de problemas y pensamiento crítico, preparando a los
