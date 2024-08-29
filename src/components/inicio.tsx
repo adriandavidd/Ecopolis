@@ -3,9 +3,7 @@ export const Inicio = () => {
     <div className="mx-8 bg-white text-zinc-700 h-full">
       <div className="flex flex-col items-center justify-center">
         <div className="flex flex-col items-center justify-center mt-10">
-          <p className="font-bold text-xl mb-14">
-            Proyecto Interdisciplinario: "Ecopolis: Innovación Urbana
-            Sostenible"
+          <p className="font-bold text-xl mb-14"> Proyecto Interdisciplinario: "Ecopolis: Innovación Urbana Sostenible"
           </p>
         </div>
         <p className="text-xl font-bold mt-4 mb-2 ">1. Fase de Planeación:</p>
