@@ -2,7 +2,7 @@ export const Matematicas = () => {
   return (
     <div className="bg-white">
       <div className="flex items-center justify-center mx-8 mt-8 text-zinc-700 flex-col">
-        <div className="text-lg my-10">
+        <div className="text-lg mt-4 mb-8">
           <p className="text-lg font-bold">
             1. Lavamanos Conectado a un Inodoro:
           </p>
