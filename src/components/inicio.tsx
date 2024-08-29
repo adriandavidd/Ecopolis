@@ -2,7 +2,7 @@ export const Inicio = () => {
   return (
     <div className="mx-8 bg-white text-zinc-700 h-full">
       <div className="flex flex-col items-center justify-center">
-        <div className="flex flex-col items-center justify-center my-10">
+        <div className="flex flex-col items-center justify-center mt-10">
           <p className="font-bold text-xl">
             Proyecto Interdisciplinario: "Ecopolis: Innovación Urbana
             Sostenible"
