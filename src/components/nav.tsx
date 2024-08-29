@@ -23,7 +23,7 @@ export const Nav = () => {
           </div>
           <ul
             tabIndex={0}
-            className=" mt-3 w-52 p-2  dropdown-content bg-slate-100 rounded-box"
+            className=" mt-3 w-64 p-2  dropdown-content bg-slate-100 rounded-box"
           >
             <li>
               <NavLink
