@@ -23,7 +23,7 @@ export const Nav = () => {
           </div>
           <ul
             tabIndex={0}
-            className="z-[1] mt-3 w-52 p-2 shadow menu menu-sm dropdown-content bg-slate-100 rounded-box"
+            className=" mt-3 w-52 p-2  dropdown-content bg-slate-100 rounded-box"
           >
             <li>
               <NavLink
@@ -63,18 +63,6 @@ export const Nav = () => {
             </li>
             <li>
               <NavLink
-                to="/quimica"
-                className={({ isActive }) =>
-                  isActive
-                    ? "text-green-600 font-semibold mx-5 text-base sm:text-sm"
-                    : "font-semibold mx-5 text-base sm:text-sm text-zinc-600 hover:text-green-600"
-                }
-              >
-                Química
-              </NavLink>
-            </li>
-            <li>
-              <NavLink
                 to="/matematicas"
                 className={({ isActive }) =>
                   isActive
@@ -83,6 +71,18 @@ export const Nav = () => {
                 }
               >
                 Matemáticas
+              </NavLink>
+            </li>
+            <li>
+              <NavLink
+                to="/quimica"
+                className={({ isActive }) =>
+                  isActive
+                    ? "text-green-600 font-semibold mx-5 text-base sm:text-sm"
+                    : "font-semibold mx-5 text-base sm:text-sm text-zinc-600 hover:text-green-600"
+                }
+              >
+                Química
               </NavLink>
             </li>
             <li>

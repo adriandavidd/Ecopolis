@@ -1,5 +1,10 @@
 import { Nav } from "./nav";
-import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
+import {
+  BrowserRouter as Router,
+  Route,
+  Routes,
+  HashRouter,
+} from "react-router-dom";
 import { Inicio } from "./inicio";
 import { Ods } from "./ods";
 import { Ciencias } from "./ciencias";
@@ -11,7 +16,7 @@ import { Quimica } from "./quimica";
 export const Home = () => {
   return (
     <div className="bg-white">
-      <Router>
+      <HashRouter>
         <Nav></Nav>
         <Routes>
           <Route index element={<Inicio></Inicio>} />
@@ -22,7 +27,7 @@ export const Home = () => {
           <Route path="/matematicas" element={<Matematicas></Matematicas>} />
           <Route path="/ods" element={<Quimica></Quimica>} />
         </Routes>
-      </Router>
+      </HashRouter>
     </div>
   );
 };

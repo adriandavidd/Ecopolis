@@ -1,6 +1,6 @@
 export const Info = () => {
   return (
-    <div>
+    <div className="bg-white">
       <div></div>
     </div>
   );

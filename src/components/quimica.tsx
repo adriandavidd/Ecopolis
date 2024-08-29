@@ -1,6 +1,6 @@
 export const Quimica = () => {
   return (
-    <div>
+    <div className="bg-white">
       <div></div>
     </div>
   );

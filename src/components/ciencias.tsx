@@ -1,7 +1,7 @@
 export const Ciencias = () => {
-    return (
-        <div>
-            <div></div>
-        </div>
-    )
-}
+  return (
+    <div className="bg-white">
+      <div></div>
+    </div>
+  );
+};
