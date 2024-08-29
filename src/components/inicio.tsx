@@ -193,6 +193,7 @@ export const Inicio = () => {
           interdisciplinaria.
         </p>
       </div>
+<div className="bg-white h-8"></div>
     </div>
   );
 };
