@@ -2,7 +2,7 @@ export const Inicio = () => {
   return (
     <div className="mx-8 bg-white text-zinc-700 h-full">
       <div className="flex flex-col items-center justify-center">
-        <div className="flex flex-col items-center justify-center mt-10">
+        <div className="flex flex-col items-center mt-10">
           <p className="font-bold text-xl mb-14">
             Proyecto Interdisciplinario: "Ecopolis: Innovación Urbana
             Sostenible"
@@ -42,7 +42,7 @@ export const Inicio = () => {
           por el medio ambiente?
         </p>
         <p className="text-xl font-bold mt-8 mb-2 ">
-          Fase de Investigación y Análisis:
+         2. Fase de Investigación y Análisis:
         </p>
         <p className="my-4 text-base">
           <strong>Química:</strong> Investigar diferentes compuestos orgánicos
