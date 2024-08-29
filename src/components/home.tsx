@@ -1,6 +1,6 @@
 import { Nav } from "./nav";
 import { BrowserRouter as Router, Route, Routes } from "react-router-dom";
-import { Inicio } from "./Inicio";
+import { Inicio } from "./inicio";
 import { Ods } from "./ods";
 import { Ciencias } from "./ciencias";
 import { Arte } from "./arte";
@@ -10,7 +10,7 @@ import { Quimica } from "./quimica";
 
 export const Home = () => {
   return (
-    <div>
+    <div className="bg-white">
       <Router>
         <Nav></Nav>
         <Routes>
