@@ -6,7 +6,7 @@ export const Matematicas = () => {
           <p className="text-lg font-bold">
             1. Lavamanos Conectado a un Inodoro:
           </p>
-          <p className="text-base my-4">
+          <p className="text-base mb-4 mt-8">
             Este sistema utiliza el agua del lavamanos para llenar el tanque del
             inodoro, reduciendo el consumo de agua potable para la descarga.
             Aquí está la implementación básica:
