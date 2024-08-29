@@ -13,7 +13,7 @@ export const Inicio = () => {
           <p className="text-lg font-bold ">Objetivo General:</p>
           Desarrollar un proyecto urbano sostenible donde los estudiantes
           integren conocimientos de Química Orgánica, Cálculo, Ciencias
-          Políticas,Económicas y Educación Artística para proponer soluciones
+          Políticas, Económicas y Educación Artística para proponer soluciones
           a problemas urbanos reales.
         </p>
         <p className="text-lg font-bold mt-8 mb-2">
