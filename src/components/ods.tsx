@@ -36,7 +36,7 @@ export const Ods = () => {
       </p>
       <img src="/ods3.jpg" className="w-60 h-60 mt-10" alt="ods3" />
 <div className="bg-white h-8"></div>
-    </div>
+    
     </div>
   );
 };
