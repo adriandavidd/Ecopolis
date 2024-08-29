@@ -1,0 +1,10 @@
+---
+import Layout from "../layouts/Layout.astro";
+import { Home } from "../components/home";
+---
+
+<Layout title="Ecopolis">
+  <main>
+    <Home client:only />
+  </main>
+</Layout>
