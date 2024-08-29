@@ -8,19 +8,13 @@ export const Inicio = () => {
         </div>
         <p className="text-xl font-bold mt-4 mb-2 ">1. Fase de Planeación:</p>
         <p className="my-4 text-base">
-          <p className="text-lg font-bold ">Objetivo General:</p>
-          Desarrollar un proyecto urbano sostenible donde los estudiantes
-          integren conocimientos de Química Orgánica, Cálculo, Ciencias
-          Políticas, Económicas y Educación Artística para proponer soluciones
-          a problemas urbanos reales.
+          <p className="text-lg font-bold ">Objetivo General:</p>Desarrollar un proyecto urbano sostenible donde los estudiantes integren conocimientos de Química Orgánica, Cálculo, Ciencias Políticas, Económicas y Educación Artística para proponer soluciones a problemas urbanos reales.
         </p>
         <p className="text-lg font-bold mt-8 mb-2">
           Preguntas Problematizadoras por Asignatura:
         </p>
         <p className="my-4">
-          <strong>Química:</strong> ¿Cómo pueden los compuestos orgánicos
-          contribuir a la creación de materiales de construcción más sostenibles
-          y respetuosos con el medio ambiente en un entorno urbano?
+          <strong>Química:</strong> ¿Cómo pueden los compuestos orgánicos contribuir a la creación de materiales de construcción más sostenibles y respetuosos con el medio ambiente en un entorno urbano?
         </p>
         <p className="my-4">
           <strong>Cálculo:</strong> ¿De qué manera pueden las funciones, límites
