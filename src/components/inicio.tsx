@@ -1,6 +1,6 @@
 export const Inicio = () => {
   return (
-    <div className="mx-8 bg-white text-zinc-700 h-full">
+    <div className="mx-8 bg-white text-zinc-700 h-screen">
       <div className="flex flex-col items-center justify-center my-10">
         <div className="flex flex-col items-center justify-center my-10">
           <p className="font-bold text-xl">
