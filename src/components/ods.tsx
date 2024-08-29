@@ -35,8 +35,7 @@ export const Ods = () => {
         Mejora la calidad de vida mediante espacios verdes y saludables.
       </p>
       <img src="/ods3.jpg" className="w-60 h-60 mt-10" alt="ods3" />
-<div className="bg-white h-8"></div>
-    
+<div className="bg-white h-8"></div> 
     </div>
   );
 };
