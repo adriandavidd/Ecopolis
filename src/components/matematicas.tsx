@@ -1,7 +1,7 @@
 export const Matematicas = () => {
   return (
     <div className="bg-white">
-      <div className="flex items-center justify-center mx-20 my-10 text-zinc-700 flex-col">
+      <div className="flex items-center justify-center mx-8 mt-8 text-zinc-700 flex-col">
         <div className="text-lg my-10">
           <p className="text-lg font-bold my-4">
             1. Lavamanos Conectado a un Inodoro:
@@ -92,6 +92,7 @@ export const Matematicas = () => {
           </p>
         </div>
       </div>
+<div className="bg-white h-8"></div>
     </div>
   );
 };
