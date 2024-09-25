@@ -3,101 +3,101 @@ export const Inicio = () => {
     <div className="mx-8 bg-white text-zinc-700 h-full">
       <div className="flex flex-col items-center">
         <div className="flex flex-col items-center justify-center mt-10">
-          <p className="font-bold text-xl mb-8">
+          <p className="font-bold text-2xl mb-8">
             {" "}
             Proyecto Interdisciplinario: "Ecopolis: Innovación Urbana
             Sostenible"
           </p>
         </div>
-        <p className="text-xl font-bold mt-4 mb-2 ">1. Fase de Planeación:</p>
-        <p className="my-4 text-base px-5">
-          <p className="text-lg font-bold">Objetivo General:</p>Desarrollar un
+        <p className="text-2xl font-bold mt-4 mb-2 ">1. Fase de Planeación:</p>
+        <p className="my-4 text-xl px-5">
+          <p className="text-2xl font-bold">Objetivo General:</p>Desarrollar un
           proyecto urbano sostenible donde los estudiantes integren
           conocimientos de Química Orgánica, Cálculo, Ciencias Políticas,
           Económicas y Educación Artística para proponer soluciones a problemas
           urbanos reales.
         </p>
-        <p className="text-lg font-bold mt-8 mb-2">
+        <p className="text-2xl font-bold mt-8 mb-2">
           Preguntas Problematizadoras por Asignatura:
         </p>
-        <p className="my-4 px-5">
+        <p className="my-4 px-5 text-xl">
           <strong>Química:</strong> ¿Cómo pueden los compuestos orgánicos
           contribuir a la creación de materiales de construcción más sostenibles
           y respetuosos con el medio ambiente en un entorno urbano?
         </p>
-        <p className="my-4 px-5">
+        <p className="my-4 px-5 text-xl">
           <strong>Cálculo:</strong> ¿De qué manera pueden las funciones, límites
           y derivadas optimizar el uso de recursos en la construcción de un
           barrio sostenible, garantizando eficiencia y sostenibilidad?
         </p>
-        <p className="my-4 px-5">
+        <p className="my-4 px-5 text-xl">
           <strong>Ciencias Políticas y Económicas:</strong> ¿Cuál es el impacto
           económico y social de implementar materiales de construcción
           sostenibles en un barrio urbano y qué políticas públicas pueden apoyar
           esta transición hacia la sostenibilidad?
         </p>
-        <p className="my-4 px-5">
+        <p className="my-4 px-5 text-xl">
           <strong>Educación Artística:</strong> ¿Cómo pueden el diseño técnico y
           la proyección de planos contribuir a la visualización y planificación
           de un barrio sostenible, integrando estética, funcionalidad y respeto
           por el medio ambiente?
         </p>
-        <p className="text-xl font-bold mt-8 mb-2 ">
+        <p className="text-2xl font-bold mt-8 mb-2 ">
           2. Fase de Investigación y Análisis:
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Química:</strong> Investigar diferentes compuestos orgánicos
           que puedan ser utilizados en materiales de construcción sostenibles.
           Analizar las propiedades químicas de estos materiales y sus beneficios
           para el medio ambiente.
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Cálculo:</strong> Estudiar y aplicar funciones, límites y
           derivadas para modelar y optimizar el uso de recursos en un entorno
           urbano. Realizar cálculos para determinar la eficiencia y la
           sostenibilidad de los materiales propuestos.
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Ciencias Políticas y Económicas:</strong> Investigar el
           impacto económico de implementar materiales sostenibles en la
           construcción urbana. Analizar políticas públicas que promuevan la
           sostenibilidad y la economía circular.
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Educación Artística:</strong> Diseñar planos y maquetas de un
           barrio sostenible utilizando escuadras y técnicas de dibujo técnico.
           Interpretar planos y visualizar cómo se integrarían los materiales y
           las soluciones propuestas.
         </p>
-        <p className="text-xl font-bold mt-8 mb-2">
+        <p className="text-2xl font-bold mt-8 mb-2">
           3. Fase de Desarrollo del Proyecto:
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Química:</strong> Realizar experimentos para demostrar las
           propiedades de los materiales sostenibles propuestos. Elaborar
           informes sobre las aplicaciones de estos materiales en la construcción
           urbana.
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Cálculo:</strong> Desarrollar modelos matemáticos para
           optimizar el uso de los materiales y recursos. Presentar análisis de
           eficiencia y sostenibilidad basado en los cálculos realizados.
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Ciencias Políticas y Económicas:</strong> Elaborar un análisis
           de costo-beneficio de la implementación de los materiales sostenibles.
           Proponer políticas económicas y sociales para fomentar la construcción
           sostenible.
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Educación Artística:</strong> Crear planos detallados y
           maquetas físicas o digitales del barrio sostenible. Presentar diseños
           que integren estética y funcionalidad con la sostenibilidad.
         </p>
-        <p className="text-xl font-bold mt-8 mb-2">
+        <p className="text-2xl font-bold mt-8 mb-2">
           4. Fase de Integración y Síntesis:
         </p>
-        <p className="my-4 text-base px-5">
+        <p className="my-4 text-xl px-5">
           <strong>Producto Final:</strong> Un proyecto urbano sostenible que
           incluye un informe científico, modelos matemáticos, análisis económico
           y políticas públicas, así como planos y maquetas del barrio
@@ -105,7 +105,7 @@ export const Inicio = () => {
         </p>
 
         <div className="flex flex-col">
-          <p className="my-4 text-base">
+          <p className="my-4 text-xl">
             <strong>Metodología:</strong>
             <ul className="list-disc">
               <li>
@@ -122,7 +122,7 @@ export const Inicio = () => {
               </li>
             </ul>
           </p>
-          <p className="my-4 text-base">
+          <p className="my-4 text-xl">
             <strong>Recursos:</strong>
             <ul className="list-disc">
               <li>Laboratorio de Química y materiales para experimentos.</li>
@@ -134,7 +134,7 @@ export const Inicio = () => {
               </li>
             </ul>
           </p>
-          <p className="my-4 text-base">
+          <p className="my-4 text-xl">
             <strong>Distribución del Trabajo:</strong>
             <ul className="list-disc">
               <li>Química: Experimentos y análisis de materiales.</li>
@@ -148,7 +148,7 @@ export const Inicio = () => {
               </li>
             </ul>
           </p>
-          <p className="my-4 text-base">
+          <p className="my-4 text-xl">
             <strong>Evaluación:</strong>
             <ul className="list-disc">
               <li>
@@ -161,8 +161,8 @@ export const Inicio = () => {
               </li>
             </ul>
           </p>
-          <p className="text-xl font-bold mt-8 mb-2">Cronograma:</p>
-          <p className="my-4 text-base">
+          <p className="text-2xl font-bold mt-8 mb-2">Cronograma:</p>
+          <p className="my-4 text-xl">
             <ul className="list-disc">
               <li>Semana 1-2: Introducción y formación de equipos.</li>
               <li>Semana 3-5: Investigación y análisis inicial.</li>
@@ -173,20 +173,20 @@ export const Inicio = () => {
           </p>
         </div>
 
-        <p className="text-xl font-bold mt-8 mb-2">
+        <p className="text-2xl font-bold mt-8 mb-2">
           5. Fase de Presentación y Evaluación:
         </p>
-        <p className="my-4 text-base">
+        <p className="my-4 text-xl">
           <strong>Presentación:</strong> Cada equipo presentará su proyecto a la
           comunidad educativa, destacando la integración de los diferentes
           conocimientos y las soluciones propuestas.
         </p>
-        <p className="my-4 text-base pr-6">
+        <p className="my-4 text-xl pr-6">
           <strong>Evaluación:</strong>Se evaluará el proceso y el producto
           final, considerando la investigación, la aplicación de conocimientos,
           la innovación y la calidad de la presentación.
         </p>
-        <p className="mt-4 text-base pl-5">
+        <p className="mt-4 text-xl pl-5">
           Este proyecto no solo desarrollará competencias específicas en cada
           área, sino que también fomentará habilidades de colaboración,
           resolución de problemas y pensamiento crítico, preparando a los

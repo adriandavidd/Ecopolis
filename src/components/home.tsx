@@ -25,7 +25,7 @@ export const Home = () => {
           <Route path="/arte" element={<Arte></Arte>} />
           <Route path="/info" element={<Info></Info>} />
           <Route path="/matematicas" element={<Matematicas></Matematicas>} />
-          <Route path="/ods" element={<Quimica></Quimica>} />
+          <Route path="/quimica" element={<Quimica></Quimica>} />
         </Routes>
       </HashRouter>
     </div>
